@@ -1,16 +1,11 @@
-# break_and_bad_v1
+### breaking bad characters mobile app 
+##  Seif afya
+![img3_](https://user-images.githubusercontent.com/59228910/154384681-332bcbde-1fde-4367-9cf4-fe1b0fd22244.jpg)
 
-A new Flutter project.
+![img2_](https://user-images.githubusercontent.com/59228910/154384767-3b92b22a-76ef-436e-92d0-1a951a00dd6b.jpg)
 
-## Getting Started
+![img4_](https://user-images.githubusercontent.com/59228910/154384741-44b8db55-7d79-4ea3-83ef-a503ca81680b.jpg)
 
-This project is a starting point for a Flutter application.
+![img1_](https://user-images.githubusercontent.com/59228910/154384661-e0b81690-d241-4040-85d0-826c8e7721d0.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![img5_](https://user-images.githubusercontent.com/59228910/154384719-42e6a1bd-69d8-41cc-a1ab-36659bdc786a.jpg)
