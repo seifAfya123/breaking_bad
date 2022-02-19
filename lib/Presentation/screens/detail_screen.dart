@@ -86,7 +86,7 @@ class DetailScreen extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       info_for_character(
-                          "Jop : ", character.jops!.join(" / ").toString()),
+                          "Job : ", character.jops!.join(" / ").toString()),
                       build_divider(MediaQuery.of(context).size.width * 0.8),
                       info_for_character(
                           "Appeard in  : ", character.category.toString()),
